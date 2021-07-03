@@ -16,6 +16,10 @@ html {
   scroll-behavior: smooth;
 }
 
+hr {
+  border: 1px solid #eee;
+}
+
 nav {
   display: flex;
   align-items: center;

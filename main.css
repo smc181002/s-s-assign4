@@ -109,6 +109,7 @@ div.hero {
   text-align: left;
   border: 1px solid #eee;
   height: 100%;
+  overflow: auto;
 }
 
 div.video {
